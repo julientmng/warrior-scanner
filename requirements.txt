@@ -1,4 +1,0 @@
-streamlit>=1.38
-pandas>=2.1
-ib_async>=2.0.1
-requests>=2.31
